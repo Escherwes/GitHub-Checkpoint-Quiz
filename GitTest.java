@@ -15,4 +15,8 @@ public class GitTest{
 
 	}
 
+	public void setString(String sentence){
+		this.sentence = sentence;
+	}
+
 }
